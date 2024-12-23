@@ -34,6 +34,46 @@ import samsung_logo from './samsung_logo.png'
 import adobe_logo from './adobe_logo.png'
 import amazon_logo from './amazon_logo.png'
 
+
+declare module './assets' {
+    export const resource: {
+      logo: string;
+      search_icon: string;
+      cross_icon: string;
+      upload_area: string;
+      company_icon: string;
+      resume_not_selected: string;
+      resume_selected: string;
+      microsoft_logo: string;
+      walmart_logo: string;
+      accenture_logo: string;
+      app_main_img: string;
+      play_store: string;
+      app_store: string;
+      back_arrow_icon: string;
+      left_arrow_icon: string;
+      right_arrow_icon: string;
+      location_icon: string;
+      money_icon: string;
+      suitcase_icon: string;
+      person_icon: string;
+      facebook_icon: string;
+      instagram_icon: string;
+      twitter_icon: string;
+      home_icon: string;
+      add_icon: string;
+      person_tick_icon: string;
+      resume_download_icon: string;
+      profile_img: string;
+      delete_icon: string;
+      profile_upload_icon: string;
+      email_icon: string;
+      lock_icon: string;
+      samsung_logo: string;
+      adobe_logo: string;
+      amazon_logo: string;
+    };
+  }
 export const assets = {
     logo,
     search_icon,

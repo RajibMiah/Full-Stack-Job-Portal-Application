@@ -1,7 +1,7 @@
 import { Routes, Route } from "react-router-dom";
 import Home from "./pages/Home";
-import Applications from "./pages/applications";
-import ApplyJob from "./pages/applyjob";
+import ApplyJob from "./pages/ApplyJob";
+import Applications from "./pages/Applications";
 
 function App() {
   return (
