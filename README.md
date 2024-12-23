@@ -11,6 +11,7 @@ A full-stack job portal application built using **React.js**, **Node.js**, and *
 - Browse and search for job listings.
 - Filter jobs by categories, location, and skills.
 - Apply for jobs directly through the platform.
+
 - Manage profile and view applied jobs.
 
 ### Employer Features:
@@ -28,6 +29,7 @@ A full-stack job portal application built using **React.js**, **Node.js**, and *
 ## Technologies Used
 
 ### Frontend:
+- **TypeScript**
 - **React.js** with **React Router** for SPA functionality.
 - **Axios** for API calls.
 - **Tailwindcss** and **CSS Modules** for styling.
